@@ -1,8 +1,0 @@
-{
-  "name": "studyflow-backend",
-  "private": true,
-  "type": "module",
-  "dependencies": {
-    "dayjs": "^1.11.11"
-  }
-}
